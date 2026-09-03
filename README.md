@@ -10,12 +10,6 @@
 - 🤝 Open to collaboration and learning opportunities
 
 ⭐ Thanks for visiting my profile!
-<!--
-**og-rituraj/og-rituraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some i# 💫 About Me:
-# Hi there, I'm Rituraj 👋<br><br>🎓 B.Tech Data Science Student | 💻 Full Stack Developer | 📊 Data Science Enthusiast<br><br>- 🌱 Learning Java, JavaScript, DSA & Machine Learning<br>- 💻 Skills: Python, Java, React, Node.js, Express.js, SQL & MongoDB<br>- 🔭 Building real-world Full Stack & Data Science projects<br>- 🧠 Passionate about problem solving and technology<br>- 🤝 Open to collaboration and learning opportunities<br><br>⭐ Thanks for visiting my profile!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rituraj_kjha) 
