@@ -1,5 +1,15 @@
-## Hi there 👋
 
+# Hi there, I'm Rituraj 👋
+
+🎓 B.Tech Data Science Student | 💻 Full Stack Developer | 📊 Data Science Enthusiast
+
+- 🌱 Learning Java, JavaScript, DSA & Machine Learning
+- 💻 Skills: Python, Java, React, Node.js, Express.js, SQL & MongoDB
+- 🔭 Building real-world Full Stack & Data Science projects
+- 🧠 Passionate about problem solving and technology
+- 🤝 Open to collaboration and learning opportunities
+
+⭐ Thanks for visiting my profile!
 <!--
 **og-rituraj/og-rituraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
